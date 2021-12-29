@@ -1,0 +1,15 @@
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\Alunos.exe
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\Alunos.deps.json
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\Alunos.runtimeconfig.json
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\Alunos.dll
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\ref\Alunos.dll
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\bin\Debug\net6.0\Alunos.pdb
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.AssemblyReference.cache
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfoInputs.cache
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfo.cs
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.CoreCompileInputs.cache
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.dll
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\ref\Alunos.dll
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.pdb
+D:\Alura\DIO\Iniciando .NET\DigitalInnovationOne\finalproject-alunos\Alunos\obj\Debug\net6.0\Alunos.genruntimeconfig.cache
