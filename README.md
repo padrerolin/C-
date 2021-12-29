@@ -1,1 +1,1 @@
-# csharp-examples
+# csharp-studying
